@@ -12,6 +12,7 @@ The idea is that for the next 30 days, I'll be tracking at least 15 minutes/day 
 - Finished Day 12 of [Advent of Code](https://adventofcode.com/2019/day/12) in javascript, done in a light version of TDD (expecting the happy path and no parameter validation)
 - Long walk/hike with the dogs for cardio
 
+### January 2
 
-
-
+- Resumed old French lessons that I really shouldn't have ever stopped.  Thanks, [Duolingo](www.duolingo.com)!
+  
