@@ -15,4 +15,5 @@ The idea is that for the next 30 days, I'll be tracking at least 15 minutes/day 
 ### January 2
 
 - Resumed old French lessons that I really shouldn't have ever stopped.  Thanks, [Duolingo](www.duolingo.com)!
+- Additional research into making Python execute Javascript, and vice-versa just for funsies.
   
