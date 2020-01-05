@@ -17,3 +17,12 @@ The idea is that for the next 30 days, I'll be tracking at least 15 minutes/day 
 - Resumed old French lessons that I really shouldn't have ever stopped.  Thanks, [Duolingo](www.duolingo.com)!
 - Additional research into making Python execute Javascript, and vice-versa just for funsies.
   
+### January 3
+
+- More french lessons
+- Strength training
+
+### January 4
+
+- Continued French lessons - J'étudie le français, mais je ne me souviens pas de grand chose...
+- Trying to get over a cold, so resting up aside from a good hike with the the with dogs for cardio.
