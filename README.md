@@ -26,3 +26,9 @@ The idea is that for the next 30 days, I'll be tracking at least 15 minutes/day 
 
 - Continued French lessons - J'étudie le français, mais je ne me souviens pas de grand chose...
 - Trying to get over a cold, so resting up aside from a good hike with the the with dogs for cardio.
+
+### January 5
+
+- Ugh,colds. Still taking it easy.
+- [99% Invisible - The Eliza Effect](https://99percentinvisible.org/episode/the-eliza-effect/)
+- Continuing the French lessons some more.
